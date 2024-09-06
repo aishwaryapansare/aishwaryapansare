@@ -80,7 +80,7 @@ I'm **Aishwarya Pansare**, dedicated and enthusiastic Computer Science graduate 
 <br><br>
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abujyogesh&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryapansare&layout=compact&theme=radical)
 
 </div>
 
