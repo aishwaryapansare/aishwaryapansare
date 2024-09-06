@@ -12,13 +12,9 @@ I'm **Aishwarya Pansare**, dedicated and enthusiastic Computer Science graduate 
 🌍 **Interests**: Exploring new tech trends and working on exciting projects.  
 ❓ **Ask me about**: Web development, database management, data privacy.
 
-## Stats
-
-![Contributions](https://github-readme-stats.vercel.app/api?username=aishwaryapansare&show_icons=true&count_private=true&theme=dark&line_height=24)
-
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-abuj-243307261/) | [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)](https://github.com/aishwaryapansare) | [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:pansareaishwarya14@gmail.com)| [![HackerRank](https://img.shields.io/badge/HackerRank-%232E8B57?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aishwaryapansar1)
+| [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)](https://github.com/aishwaryapansare) | [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:pansareaishwarya14@gmail.com)| [![HackerRank](https://img.shields.io/badge/HackerRank-%232E8B57?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aishwaryapansar1)
 
 ## Languages and Tools 🛠️
 
