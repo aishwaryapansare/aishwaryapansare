@@ -7,7 +7,7 @@ I'm **Aishwarya Pansare**, dedicated and enthusiastic Computer Science graduate 
 ## About 👤
 
 🎓 **Currently pursuing my MSc** in Computer Science.  
-💻 **Daily tools**: Java , JavaScript, MySQL, Python , C ,C++.  
+💻 **Daily tools**: Java , JavaScript, MySQL, Python , C ,C++ , PHP.  
 🚀 **Passionate about**: Web Development, Software Development, Big Data.  
 🌍 **Interests**: Exploring new tech trends and working on exciting projects.  
 ❓ **Ask me about**: Web development, database management, data privacy.
